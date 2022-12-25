@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
-- 📫 How to reach me **rishunayak22@gmail.com**
+- 📫 How to reach me **harshitpandeymrj007@gmail.com**
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
