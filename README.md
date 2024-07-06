@@ -10,13 +10,13 @@
 
 <h3 align="center">A passionate Full Stack Developer is in making</h3>
 
-<p align="center">
+
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Rishu Kumar Nayak; I am a Full-stack%20web%20developer 👨🏻‍💻; interested in Sports 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF773&random=false&width=435&lines=My+self+Harshit+Pandey+;I+am+a+Full-stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<div>
 
 ## 🙋‍♂️ About Me
 
